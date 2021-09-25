@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">General Knowldge Quiz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="facebook_app_id">220552850092365</string>
+    <string name="fb_login_protocol_scheme">fb220552850092365</string>
+
+</resources>
